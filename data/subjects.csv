@@ -1,0 +1,7 @@
+#code,name,max_marks,pass_marks,credits,short_name,faculty,faculty_email,type,unit1,unit2,unit3,unit4,unit5
+U26MA101,Mathematics-I,100.0,40.0,4,M1,Dr. Math Faculty,math.faculty@example.edu,Theory,Matrices,Calculus of One Variable,Multivariable Calculus (Differentiation),Multivariable Calculus (Integration),Special Functions and Power Series Solution of ODE
+U26CH101,Engineering Chemistry,100.0,40.0,3,EC,Dr. Chemistry Faculty,chemistry.faculty@example.edu,Theory,Electrochemistry,Water Chemistry and Corrosion,Polymers,Chemical Fuels,Green Chemistry & Spectroscopy
+U26CS101,Programming for Problem Solving,100.0,40.0,3,PPS,Ms. PPS Faculty,pps.faculty@example.edu,Theory,Introduction to Programming and C Fundamentals,Control Structures and Functions,Recursion~ Preprocessor and Arrays,Pointers,Structures~ Unions and File Handling
+U26EN101,English for Professional Communication,100.0,40.0,3,EPC,Ms. English Faculty,english.faculty@example.edu,Theory,Syllabus,My Mother at Sixty-Six,Dabbawallahs: Mumbai's Business,A Swarm of Cyborg Insects,The Rule of the Road
+U26EN103,Universal Human Values,100.0,40.0,1,UHV,Ms. UHV Faculty,uhv.faculty@example.edu,Theory,Introduction to Value Education,Universal Human Value,Cyber Ethics and Privacy in the Digital Age,Professional Ethics,Indian Knowledge Systems
+U26CH102,Environmental Science,100.0,40.0,0,EVS,Dr. EVS Faculty,evs.faculty@example.edu,Theory,Introduction to Environmental Studies,Ecosystem – Introduction,Biodiversity – I,Environmental Pollution – Introduction & Air Pollution,Watershed Management & Environmental Ethics

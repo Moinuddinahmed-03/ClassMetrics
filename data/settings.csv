@@ -1,0 +1,12 @@
+#key,value (grade_min_0..5 = minimum percentage for grades S, A, B, C, D, E)
+data_version,4
+att_threshold,75.00
+weight_x,70.00
+weight_y,30.00
+grade_min_0,90.0
+grade_min_1,80.0
+grade_min_2,70.0
+grade_min_3,60.0
+grade_min_4,50.0
+grade_min_5,40.0
+animations,1
